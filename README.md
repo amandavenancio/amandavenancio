@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandavenancio
 - 👀 I’m interested in technology, gym, games and health life.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning Javascript..
 
 <!---
 amandavenancio/amandavenancio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
