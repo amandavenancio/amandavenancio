@@ -1,10 +1,4 @@
-<h1 align="center">Olá! Eu sou a Amanda 👋</h1>
-
-<p align="center">
-  💻 Desenvolvedora Fullstack focada em ReactJS e NodeJS<br/>
-  📱 Apaixonada por criar experiências web <br/>
-  🚀 Sempre em busca de aprender, evoluir e compartilhar
-</p>
+<h1 align="center">Olá! Eu sou a Amanda / Hi there, I'm Amanda 👋</h1>
 
 ---
 
